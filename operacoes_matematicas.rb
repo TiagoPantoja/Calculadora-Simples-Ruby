@@ -18,6 +18,6 @@ def dividir(a,b)
     if b != 0
         (a/b).round(2)
     else
-        print 'Não é possível dividir por zero. Tente novamente!'
+        print 'Não é possível dividir por zero'
     end
 end
